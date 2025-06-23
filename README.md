@@ -12,6 +12,10 @@
 
 *MENTOR*: NEELA SANTOSH
 
+*OUTPUT*
+
+![Image](https://github.com/user-attachments/assets/757d1b98-9f93-4dd1-80a1-a10ed5fbd2e9)
+
 ## 🎯 Description of the Task
 
 This project is a **simple interactive quiz application** built using core front-end technologies — **HTML, CSS, and JavaScript**. The primary goal of this application is to offer a dynamic and enjoyable way to test basic knowledge of web development, particularly focused on HTML, CSS, and JavaScript concepts.
